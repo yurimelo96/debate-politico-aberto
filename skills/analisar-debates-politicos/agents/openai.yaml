@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analisar debates políticos"
+  short_description: "Cheque alegações e compare correntes políticas"
+  default_prompt: "Use $analisar-debates-politicos para analisar esta conversa, consultar as bases das correntes políticas e separar fatos, valores e previsões."

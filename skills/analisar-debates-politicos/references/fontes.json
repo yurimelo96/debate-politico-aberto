@@ -1,0 +1,115 @@
+{
+  "base_version": "0.1.0",
+  "reviewed_on": "2026-10-06",
+  "policy": "Atualizar fontes temporais no momento da análise; não reproduzir artigos ou plataformas integralmente.",
+  "sources": [
+    {
+      "id": "TEO-LIB",
+      "title": "Liberalism — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/liberalism/",
+      "type": "referencia_academica",
+      "limitations": "Conceitos e variedades; não resultados de governos.",
+      "reference_period": "conceitual ou página consultada",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "TEO-CON",
+      "title": "Conservatism — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/conservatism/",
+      "type": "referencia_academica",
+      "limitations": "Conceitos e debates da tradição; não cadastro de conservadores.",
+      "reference_period": "conceitual ou página consultada",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "TEO-SOC",
+      "title": "Socialism — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/socialism/",
+      "type": "referencia_academica",
+      "limitations": "Modelos e argumentos; não equivalência automática com estatização.",
+      "reference_period": "conceitual ou página consultada",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "TEO-LBT",
+      "title": "Libertarianism — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/libertarianism/",
+      "type": "referencia_academica",
+      "limitations": "Variantes de libertarianismo; usos nacionais diferem.",
+      "reference_period": "conceitual ou página consultada",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "BR-METODO",
+      "title": "Como medir ideologia partidária? — Bruno Bolognesi",
+      "url": "https://www.scielo.br/j/rsocp/a/xWg9PnvvVs69M5f8wBYMyTg/?lang=pt",
+      "type": "pesquisa_original",
+      "limitations": "Métodos e limitações; não classificação permanente.",
+      "reference_period": "conceitual ou página consultada",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "BR-CLASS",
+      "title": "O desaparecimento do centro ideológico no sistema partidário brasileiro — Bolognesi e colaboradores",
+      "url": "https://new.scielo.br/j/op/a/hv8GBg9hfCCZLwcWktfYhtC/?lang=pt",
+      "type": "pesquisa_original",
+      "limitations": "Dados de 2018 e 2022; cortes não demonstram autoritarismo.",
+      "reference_period": "2018 e 2022",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "INST-TSE",
+      "title": "Partidos políticos — TSE",
+      "url": "https://www.tse.jus.br/partidos",
+      "type": "fonte_institucional",
+      "limitations": "Registro e documentos; não certificação de comportamento partidário.",
+      "reference_period": "conceitual ou página consultada",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "PART-PT",
+      "title": "Manifesto de Fundação do PT",
+      "url": "https://pt.org.br/manifesto-de-fundacao-do-partido-dos-trabalhadores/",
+      "type": "autodefinicao_partidaria",
+      "limitations": "Documento histórico do próprio partido, aprovado em 1980.",
+      "reference_period": "1980",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "PART-NOVO",
+      "title": "Cursos de Princípios — Fundação Brasil NOVO",
+      "url": "https://brasilnovo.org.br/cursos-de-principios/",
+      "type": "autodefinicao_partidaria",
+      "limitations": "Descrição do próprio campo político; não comprova desempenho.",
+      "reference_period": "conceitual ou página consultada",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "MOV-SI",
+      "title": "Declaration of principles — Socialist International",
+      "url": "https://www.socialistinternational.org/about-us/declaration-of-principles/",
+      "type": "autodefinicao_organizacional",
+      "limitations": "Declaração de princípios; não descrição de todos os governos membros.",
+      "reference_period": "conceitual ou página consultada",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "EUA-DEM",
+      "title": "Democratic Party Platform 2024",
+      "url": "https://democrats.org/where-we-stand/party-platform/",
+      "type": "autodefinicao_partidaria",
+      "limitations": "Plataforma eleitoral daquele ano; não execução ou consenso de todos os membros.",
+      "reference_period": "2024",
+      "consulted_on": "2026-10-06"
+    },
+    {
+      "id": "EUA-REP",
+      "title": "RNC 2024 Platform",
+      "url": "https://www.2024gopplatform.com/",
+      "type": "autodefinicao_partidaria",
+      "limitations": "Plataforma eleitoral daquele ano; não execução ou consenso de todos os membros.",
+      "reference_period": "2024",
+      "consulted_on": "2026-10-06"
+    }
+  ]
+}

@@ -22,5 +22,17 @@ Liberalismo possui correntes com diferentes concepções de propriedade e justi�
 ## Posições transversais
 Tratar ambientalismo, feminismos, nacionalismos, trabalhismo e democracia cristã como conjuntos com variedades internas. Identificar a proposta e o país antes de atribuir uma posição. Separar populismo, que exige definição de estratégia e relação povo-elite, de um programa econômico fixo. Não deduzir autoritarismo de intervenção econômica, religião ou preferência por mercado isoladamente.
 
+## Ampliação conceitual
+
+| Tradição ou tema | O que a referência ajuda a explicar | O que não concluir automaticamente |
+|---|---|---|
+| Marx e marxismos | Alienação, materialismo histórico e crítica da exploração em Marx [TEO-MAR]. | Uma exposição sobre Marx não descreve todos os marxismos, partidos de esquerda ou regimes posteriores. |
+| Feminismos | Poder nas relações públicas e privadas; abordagens liberais, radicais, materialistas e interseccionais [TEO-FEM]. | Não existe uma posição única sobre toda política de gênero; uma teoria não resolve uma regra atual sem legislação e evidências específicas. |
+| Nacionalismos | Identidade, deveres entre compatriotas e autodeterminação; combinações com outras correntes [TEO-NAC]. | Patriotismo ou defesa de autonomia não demonstram sozinhos xenofobia, nem justificam qualquer contrato ou restrição. |
+| Republicanismo | Tradição cívica e liberdade como proteção contra poder arbitrário, ou não dominação [TEO-REP]. | Não equivale a partidos que usam “Republicano” ou “Republicanos” no nome. |
+| Democracia | Justificações, autoridade, participação, representação e seus limites [TEO-DEM]. | Apoio declarado à democracia não prova a prática de uma organização; teoria normativa não substitui avaliação institucional. |
+
+Essas são sínteses editoriais de introduções e trechos consultados. Consultar o verbete, seus autores e bibliografia para aprofundamento. Não são conclusões empíricas sobre governos. Usar o catálogo para identificar revisão e alcance da leitura.
+
 ## Limites e uso
 Não deduzir práticas reais de programas declarados. Não apresentar comunismo, fascismo e nazismo como sinônimos genéricos de adversário político. Quando esses conceitos forem centrais, pesquisar a literatura histórica específica e apontar características relevantes, diferenças e contexto. Esta base não contém uma história exaustiva desses regimes.

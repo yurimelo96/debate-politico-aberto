@@ -14,3 +14,13 @@ Usar como roteiro editorial de perguntas, não como estudo empírico que resolve
 
 Não atribuir automaticamente cada coluna a um partido ou presumir posições mutuamente exclusivas. Diferenciar o valor defendido do instrumento escolhido.
 Para temas sobre grupos sociais, preservar dignidade e discutir políticas específicas. Não transformar discordância sobre uma regra em diagnóstico de ódio sem examinar palavras e contexto. Não suavizar insultos ou negação de humanidade como se fossem apenas outra opinião.
+
+## Caminhos de pesquisa
+Consultar [instituicoes-dados.md](instituicoes-dados.md) para séries e documentos por pauta. Para terras, empresas e mineração, usar [soberania-investimentos.md](soberania-investimentos.md).
+- Jornada: EST-JORNADA identifica uma revisão da OIT de 2022. Só resumo e metadados foram consultados nesta base; examinar método, resultados e adequação ao Brasil antes de estimar efeito de uma proposta.
+- Educação: DADO-INEP apresenta o Ideb, que combina fluxo escolar e desempenho; especificar edição, rede e etapa.
+- Saúde: DADO-DATASUS aponta sistemas com coberturas e atrasos próprios; comparar a mesma definição e período.
+- Ambiente: DADO-INPE distingue painéis de PRODES e DETER. Não apresentar alertas como taxa anual de desmatamento.
+- Segurança: DADO-ATLAS é caminho para séries/publicações; a interface consultada não permitiu conferir estatísticas. Buscar relatório e ano-base antes de afirmar.
+
+O catálogo não contém estudos causais suficientes para resolver todas as pautas. Perguntas sobre privatização, impostos, segurança ou políticas de direitos exigem pesquisa adicional específica.

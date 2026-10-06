@@ -1,7 +1,7 @@
 {
-  "base_version": "0.1.0",
+  "base_version": "0.2.0",
   "reviewed_on": "2026-10-06",
-  "policy": "Atualizar fontes temporais no momento da análise; não reproduzir artigos ou plataformas integralmente.",
+  "policy": "Atualizar fatos temporais na análise. Catálogo orienta a busca e registra limites de acesso; não é evidência automática de alegações. Não reproduzir obras integralmente.",
   "sources": [
     {
       "id": "TEO-LIB",
@@ -10,7 +10,13 @@
       "type": "referencia_academica",
       "limitations": "Conceitos e variedades; não resultados de governos.",
       "reference_period": "conceitual ou página consultada",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "liberalismos"
+      ],
+      "use_for": "Explicar variedades do liberalismo e suas concepções de liberdade e justiça.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "TEO-CON",
@@ -19,7 +25,13 @@
       "type": "referencia_academica",
       "limitations": "Conceitos e debates da tradição; não cadastro de conservadores.",
       "reference_period": "conceitual ou página consultada",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "conservadorismo"
+      ],
+      "use_for": "Explicar conservadorismo como tradição, argumentos e debates.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "TEO-SOC",
@@ -28,7 +40,13 @@
       "type": "referencia_academica",
       "limitations": "Modelos e argumentos; não equivalência automática com estatização.",
       "reference_period": "conceitual ou página consultada",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "socialismos"
+      ],
+      "use_for": "Explicar variedades de socialismo, propriedade e coordenação econômica.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "TEO-LBT",
@@ -37,7 +55,13 @@
       "type": "referencia_academica",
       "limitations": "Variantes de libertarianismo; usos nacionais diferem.",
       "reference_period": "conceitual ou página consultada",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "libertarianismos"
+      ],
+      "use_for": "Explicar variantes do libertarianismo e suas concepções de direitos.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "BR-METODO",
@@ -46,7 +70,14 @@
       "type": "pesquisa_original",
       "limitations": "Métodos e limitações; não classificação permanente.",
       "reference_period": "conceitual ou página consultada",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "metodo",
+        "ideologia_partidaria"
+      ],
+      "use_for": "Comparar métodos de mensuração da ideologia partidária e suas limitações.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "BR-CLASS",
@@ -55,7 +86,14 @@
       "type": "pesquisa_original",
       "limitations": "Dados de 2018 e 2022; cortes não demonstram autoritarismo.",
       "reference_period": "2018 e 2022",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "ideologia_partidaria",
+        "brasil"
+      ],
+      "use_for": "Consultar classificação partidária de especialistas para os períodos de 2018 e 2022.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "INST-TSE",
@@ -64,7 +102,14 @@
       "type": "fonte_institucional",
       "limitations": "Registro e documentos; não certificação de comportamento partidário.",
       "reference_period": "conceitual ou página consultada",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "partidos",
+        "instituicoes"
+      ],
+      "use_for": "Localizar registros e documentos dos partidos políticos brasileiros.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "PART-PT",
@@ -73,7 +118,14 @@
       "type": "autodefinicao_partidaria",
       "limitations": "Documento histórico do próprio partido, aprovado em 1980.",
       "reference_period": "1980",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "partidos",
+        "brasil"
+      ],
+      "use_for": "Documentar autodefinição histórica do PT no manifesto de fundação de 1980.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "PART-NOVO",
@@ -82,7 +134,14 @@
       "type": "autodefinicao_partidaria",
       "limitations": "Descrição do próprio campo político; não comprova desempenho.",
       "reference_period": "conceitual ou página consultada",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "partidos",
+        "brasil"
+      ],
+      "use_for": "Documentar princípios que a fundação do campo NOVO apresenta.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "MOV-SI",
@@ -91,7 +150,14 @@
       "type": "autodefinicao_organizacional",
       "limitations": "Declaração de princípios; não descrição de todos os governos membros.",
       "reference_period": "conceitual ou página consultada",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "social_democracia",
+        "socialismo_democratico"
+      ],
+      "use_for": "Documentar princípios declarados pela Internacional Socialista.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "EUA-DEM",
@@ -100,7 +166,14 @@
       "type": "autodefinicao_partidaria",
       "limitations": "Plataforma eleitoral daquele ano; não execução ou consenso de todos os membros.",
       "reference_period": "2024",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "partidos",
+        "eua"
+      ],
+      "use_for": "Documentar a plataforma eleitoral democrata de 2024.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
     },
     {
       "id": "EUA-REP",
@@ -109,7 +182,575 @@
       "type": "autodefinicao_partidaria",
       "limitations": "Plataforma eleitoral daquele ano; não execução ou consenso de todos os membros.",
       "reference_period": "2024",
-      "consulted_on": "2026-10-06"
+      "consulted_on": "2026-10-06",
+      "topics": [
+        "partidos",
+        "eua"
+      ],
+      "use_for": "Documentar a plataforma eleitoral republicana de 2024.",
+      "access_status": "registro_inicial_sem_detalhamento",
+      "verification_notes": "Fonte mantida da versão 0.1.0. O registro inicial não discriminava extensão da leitura; esta ampliação não é uma nova auditoria integral dessa fonte."
+    },
+    {
+      "id": "TEO-DEM",
+      "title": "Democracy — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/democracy/",
+      "type": "referencia_academica",
+      "topics": [
+        "democracia",
+        "teoria"
+      ],
+      "use_for": "Distinguir democracia, justificação, autoridade, participação e representação.",
+      "limitations": "Teoria normativa; não classifica empiricamente todos os regimes nem prova resultados de governos.",
+      "reference_period": "Revisão substantiva indicada: 2024-06-18",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Abertura da página e leitura da introdução, estrutura e definição; não leitura integral da bibliografia.",
+      "institution": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "id": "TEO-FEM",
+      "title": "Feminist Political Philosophy — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/feminism-political/",
+      "type": "referencia_academica",
+      "topics": [
+        "feminismos",
+        "direitos",
+        "teoria"
+      ],
+      "use_for": "Identificar variedades de feminismo e debates sobre poder, público e privado.",
+      "limitations": "Não representa consenso de todas as feministas nem resolve regras atuais de esporte ou representação política.",
+      "reference_period": "Revisão substantiva indicada: 2023-12-15",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Introdução e sumário consultados, incluindo abordagens liberais, radicais, materialistas e interseccionais.",
+      "institution": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "id": "TEO-NAC",
+      "title": "Nationalism — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/nationalism/",
+      "type": "referencia_academica",
+      "topics": [
+        "nacionalismo",
+        "soberania",
+        "teoria"
+      ],
+      "use_for": "Distinguir identidade nacional, movimento, crenças e autodeterminação.",
+      "limitations": "Há variedades que se combinam com outras correntes; não demonstra xenofobia ou perda de soberania em um caso concreto.",
+      "reference_period": "Página com publicação inicial indicada: 2025-06-19",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Introdução e definição consultadas; não avaliação de nacionalismos de países específicos.",
+      "institution": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "id": "TEO-MAR",
+      "title": "Karl Marx — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/marx/",
+      "type": "referencia_academica",
+      "topics": [
+        "marx",
+        "marxismos",
+        "socialismos",
+        "teoria"
+      ],
+      "use_for": "Situar alienação, materialismo histórico, crítica do capitalismo e exploração na obra de Marx.",
+      "limitations": "Referência acadêmica secundária sobre um autor; não substitui suas obras nem descreve todos os marxismos e regimes posteriores.",
+      "reference_period": "Revisão substantiva indicada: 2025-03-27",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Introdução e organização temática consultadas; não leitura integral das obras de Marx.",
+      "institution": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "id": "TEO-REP",
+      "title": "Republicanism — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/republicanism/",
+      "type": "referencia_academica",
+      "topics": [
+        "republicanismo",
+        "liberdade",
+        "teoria"
+      ],
+      "use_for": "Explicar tradição republicana e liberdade como não dominação.",
+      "limitations": "Republicanismo filosófico não equivale ao Partido Republicano dos EUA nem ao partido Republicanos no Brasil.",
+      "reference_period": "Revisão substantiva indicada: 2026-08-12",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Introdução, sentidos do termo e apresentação da não dominação consultados.",
+      "institution": "Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "id": "INST-CF",
+      "title": "Constituição da República Federativa do Brasil — texto compilado",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "type": "legislacao",
+      "topics": [
+        "instituicoes",
+        "direitos",
+        "brasil"
+      ],
+      "use_for": "Localizar competências dos poderes, direitos e regras constitucionais.",
+      "limitations": "Conferir artigo, emenda, vigência e interpretação aplicável; texto normativo não prova cumprimento nem resolve sozinho litígios.",
+      "reference_period": "Constituição de 1988; compilação consultada em 2026-10-06",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Texto compilado acessível; não revisão integral dos artigos ou de todas as emendas.",
+      "institution": "Presidência da República"
+    },
+    {
+      "id": "INST-CAM",
+      "title": "Dados Abertos da Câmara dos Deputados — documentação e arquivos",
+      "url": "https://dadosabertos.camara.leg.br/swagger/api.html",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "votacoes",
+        "proposicoes",
+        "parlamentares",
+        "brasil"
+      ],
+      "use_for": "Localizar proposições, votações, orientações de bancada e despesas parlamentares.",
+      "limitations": "Uma proposição pode ter várias votações; voto em requerimento não equivale a voto no mérito. Diretório não prova uma alegação sem registro específico.",
+      "reference_period": "Dados por ano e atualização própria de cada conjunto",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Documentação e trechos de votações/orientações consultados; não extração de registros individuais.",
+      "institution": "Câmara dos Deputados"
+    },
+    {
+      "id": "INST-SEN",
+      "title": "Dados Abertos do Senado Federal",
+      "url": "https://www12.senado.leg.br/dados-abertos/dados-abertos",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "votacoes",
+        "proposicoes",
+        "parlamentares",
+        "brasil"
+      ],
+      "use_for": "Localizar matérias, senadores, sessões e votações do Senado.",
+      "limitations": "Separar etapas nas duas Casas, texto e espécie da votação; catálogo não substitui consulta ao registro.",
+      "reference_period": "Conjuntos legislativos e administrativos; período depende do conjunto",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Catálogo e grupos legislativos consultados; sem levantamento individual de votos.",
+      "institution": "Senado Federal"
+    },
+    {
+      "id": "INST-CGU",
+      "title": "Portal da Transparência do Governo Federal",
+      "url": "https://portaldatransparencia.gov.br/",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "orcamento",
+        "despesas",
+        "transferencias",
+        "brasil"
+      ],
+      "use_for": "Localizar registros de despesas, receitas, transferências e execução federal.",
+      "limitations": "Delimitar esfera, favorecido, função e fase da despesa; pagamento registrado não comprova irregularidade ou eficácia.",
+      "reference_period": "Portal dinâmico; período e data de extração obrigatórios na análise",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Página e descrição de despesas consultadas; sem extração de valores ou contratos.",
+      "institution": "Controladoria-Geral da União"
+    },
+    {
+      "id": "INST-STF",
+      "title": "Pesquisa de jurisprudência — Carta de Serviços do STF",
+      "url": "https://portal.stf.jus.br/textos/verTexto.asp?pagina=jurisprudenciaPesquisaJurisprudencia&servico=CartaServicosJurisdicionais",
+      "type": "diretorio_institucional",
+      "topics": [
+        "justica",
+        "jurisprudencia",
+        "brasil"
+      ],
+      "use_for": "Encontrar o serviço de pesquisa de jurisprudência do STF.",
+      "limitations": "Abertura bloqueada nesta consulta; consultar decisão íntegra e processo antes de qualquer conclusão jurídica.",
+      "reference_period": "Serviço de pesquisa; decisões possuem datas próprias",
+      "consulted_on": "2026-10-06",
+      "access_status": "resultado_busca_apenas",
+      "verification_notes": "Descrição institucional localizada em busca; tentativa de abertura retornou 403. Nenhum acórdão consultado.",
+      "institution": "Supremo Tribunal Federal"
+    },
+    {
+      "id": "INST-TSEDADOS",
+      "title": "Portal de Dados Abertos do TSE",
+      "url": "https://dadosabertos.tse.jus.br/",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "eleicoes",
+        "candidaturas",
+        "resultados",
+        "brasil"
+      ],
+      "use_for": "Localizar conjuntos sobre eleições, candidaturas, eleitorado e resultados.",
+      "limitations": "Selecionar eleição, turno, cargo, território e versão; dados de apuração não demonstram fraude ou a ausência dela por si sós.",
+      "reference_period": "Conjuntos por eleição e tema; verificar versão",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Página do catálogo consultada; sem download ou auditoria de boletins de urna.",
+      "institution": "Tribunal Superior Eleitoral"
+    },
+    {
+      "id": "DADO-PNAD",
+      "title": "PNAD Contínua — divulgação trimestral",
+      "url": "https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-trimestral.html",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "emprego",
+        "renda",
+        "desigualdade",
+        "brasil"
+      ],
+      "use_for": "Localizar dados de trabalho, rendimento e documentação da PNAD Contínua.",
+      "limitations": "Pesquisa amostral; distinguir desocupação, participação, informalidade, renda e desalentados. Abertura bloqueada; não há números validados nesta ampliação.",
+      "reference_period": "Divulgação trimestral; escolher trimestre e versão dos microdados",
+      "consulted_on": "2026-10-06",
+      "access_status": "resultado_busca_apenas",
+      "verification_notes": "Página e disponibilidade de SIDRA/microdados identificadas pela busca do IBGE; abertura retornou 403.",
+      "institution": "IBGE"
+    },
+    {
+      "id": "DADO-PIB",
+      "title": "Sistema de Contas Nacionais Trimestrais — IBGE",
+      "url": "https://www.ibge.gov.br/estatisticas/todos-os-produtos-estatisticas/9300-contas-nacionais-trimestrais.html",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "pib",
+        "crescimento",
+        "economia",
+        "brasil"
+      ],
+      "use_for": "Localizar séries de contas nacionais e documentação de revisões.",
+      "limitations": "Separar preços correntes, volume, per capita e ajuste sazonal; crescimento observado não identifica sozinho a causa. Abertura bloqueada nesta consulta.",
+      "reference_period": "Trimestres e revisões definidos em cada publicação",
+      "consulted_on": "2026-10-06",
+      "access_status": "resultado_busca_apenas",
+      "verification_notes": "Página institucional identificada em busca; abertura retornou 403. Não extração de séries.",
+      "institution": "IBGE"
+    },
+    {
+      "id": "DADO-IPCA",
+      "title": "Índice Nacional de Preços ao Consumidor Amplo — IBGE",
+      "url": "https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "inflacao",
+        "precos",
+        "economia",
+        "brasil"
+      ],
+      "use_for": "Localizar séries e definição do IPCA para comparar variações de preços.",
+      "limitations": "Distinguir taxa de inflação de nível de preços e cesta média de gasto individual. Abertura bloqueada; conferir série e retificações.",
+      "reference_period": "Série mensal; período e base devem ser indicados",
+      "consulted_on": "2026-10-06",
+      "access_status": "resultado_busca_apenas",
+      "verification_notes": "Página e descrição institucional identificadas em busca; abertura retornou 403. Não verificação de índices mensais.",
+      "institution": "IBGE"
+    },
+    {
+      "id": "DADO-TES",
+      "title": "Resultado do Tesouro Nacional — publicações e metodologia",
+      "url": "https://www.tesourotransparente.gov.br/temas/estatisticas-fiscais-e-planejamento/resultado-do-tesouro-nacional-rtn-conteudos-relacionados",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "fiscal",
+        "orcamento",
+        "divida",
+        "economia",
+        "brasil"
+      ],
+      "use_for": "Localizar resultado primário do Governo Central, séries e metodologia acima da linha.",
+      "limitations": "Governo Central não é todo o setor público; separar resultado primário, nominal, dívida e ajustes. Não usar receita ou despesa isolada como resultado fiscal.",
+      "reference_period": "Boletins e séries; escolher mês, cobertura e versão",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Descrição do RTN e método acima da linha consultados; não análise de um boletim mensal específico.",
+      "institution": "Secretaria do Tesouro Nacional"
+    },
+    {
+      "id": "DADO-BCEXT",
+      "title": "Estatísticas do setor externo — Banco Central",
+      "url": "https://www.bcb.gov.br/estatisticas/estatisticassetorexterno",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "investimento_externo",
+        "soberania",
+        "economia",
+        "brasil"
+      ],
+      "use_for": "Localizar contas externas e estatísticas de investimento direto no país.",
+      "limitations": "Separar fluxo, estoque, participação no capital e operações intercompanhia; não é cadastro de imóveis, empresas ou controle final por país.",
+      "reference_period": "Divulgações mensais e posição anual; selecionar a versão",
+      "consulted_on": "2026-10-06",
+      "access_status": "resultado_busca_apenas",
+      "verification_notes": "Busca institucional apresentou descrição de IDP e componentes; página aberta não retornou conteúdo utilizável. Sem valores extraídos.",
+      "institution": "Banco Central do Brasil"
+    },
+    {
+      "id": "TERRA-INCRA",
+      "title": "Aquisição de Terras por Estrangeiros — Incra",
+      "url": "https://www.gov.br/incra/pt-br/assuntos/governanca-fundiaria/aquisicao-terras-estrangeiros",
+      "type": "orientacao_institucional",
+      "topics": [
+        "terras",
+        "investimento_externo",
+        "soberania",
+        "brasil"
+      ],
+      "use_for": "Localizar orientação, manuais e normas sobre aquisição e arrendamento de imóveis rurais por estrangeiros.",
+      "limitations": "Não é inventário completo de propriedades; não transportar regras de imóvel rural para compra de empresa ou direito minerário. Conferir norma e situação do comprador.",
+      "reference_period": "Página modificada em 2026-06-03; normas e casos exigem atualização",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Orientação institucional e referência a manuais/normas consultadas; não análise de autorizações individuais.",
+      "institution": "Incra"
+    },
+    {
+      "id": "LEI-TERRAS",
+      "title": "Lei nº 5.709, de 7 de outubro de 1971 — aquisição de imóvel rural por estrangeiro",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5709.htm",
+      "type": "legislacao",
+      "topics": [
+        "terras",
+        "investimento_externo",
+        "soberania",
+        "brasil"
+      ],
+      "use_for": "Localizar texto legal para examinar aquisição de imóvel rural por estrangeiro.",
+      "limitations": "Lei deve ser lida junto de regulamentação, alterações, pareceres e decisões aplicáveis; não resolve sozinha estruturas societárias ou casos concretos.",
+      "reference_period": "Lei de 1971; texto disponível consultado em 2026-10-06",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Texto legal aberto; não revisão exaustiva da jurisprudência, regulamentação ou controvérsias.",
+      "institution": "Presidência da República"
+    },
+    {
+      "id": "DADO-ANM",
+      "title": "Consultar informações de processos minerários — Sistema de Dados Minerários",
+      "url": "https://www.gov.br/pt-br/servicos/consultar-informacoes-de-processos-minerarios",
+      "type": "diretorio_institucional",
+      "topics": [
+        "mineracao",
+        "soberania",
+        "brasil"
+      ],
+      "use_for": "Encontrar o serviço da ANM para consultar documentos de processos minerários.",
+      "limitations": "Consultar titular, ato e fase; direitos minerários, participação em empresa e propriedade do solo são objetos distintos. Há restrições de acesso e cadastro.",
+      "reference_period": "Serviço modificado em 2026-04-23; cada processo tem sua cronologia",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Descrição do SDM e limites de acesso consultados; não login nem consulta de processo individual.",
+      "institution": "Agência Nacional de Mineração"
+    },
+    {
+      "id": "EST-JORNADA",
+      "title": "Working time and work-life balance around the world",
+      "url": "https://researchrepository.ilo.org/esploro/outputs/report/Working-time-and-work-life-balance-around/995264841602676",
+      "type": "revisao_de_evidencias",
+      "topics": [
+        "jornada",
+        "trabalho",
+        "comparacao_internacional"
+      ],
+      "use_for": "Localizar revisão sobre horas, organização da jornada e equilíbrio entre trabalho e vida.",
+      "limitations": "Resumo e metadados consultados, não relatório integral; não estima automaticamente o efeito de uma proposta brasileira de escala 6x1.",
+      "reference_period": "Relatório de 2022; estudos e contextos históricos heterogêneos",
+      "consulted_on": "2026-10-06",
+      "access_status": "resumo_e_metadados_consultados",
+      "verification_notes": "Registro no repositório da OIT, ano e resumo consultados; PDF não lido integralmente.",
+      "institution": "Organização Internacional do Trabalho"
+    },
+    {
+      "id": "DADO-VDEM",
+      "title": "The V-Dem Dataset — catálogo de dados",
+      "url": "https://www.v-dem.net/data/the-v-dem-dataset/",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "democracia",
+        "autoritarismo",
+        "comparacao_internacional"
+      ],
+      "use_for": "Localizar indicadores, versões e documentação do projeto V-Dem.",
+      "limitations": "Índices dependem de definições e modelos de mensuração; consultar codebook, incerteza e indicador específico. Catálogo não é prova de um rótulo atribuído a pessoa ou país.",
+      "reference_period": "Catálogo consultado: versão 16, março de 2026",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Versão, conjuntos e referência à codificação por especialistas consultados; não download dos dados ou leitura integral da metodologia.",
+      "institution": "V-Dem Institute, Universidade de Gotemburgo"
+    },
+    {
+      "id": "DADO-POBREZA",
+      "title": "Poverty and Inequality Platform Methodology Handbook",
+      "url": "https://datanalytics.worldbank.org/PIP-Methodology/",
+      "type": "manual_metodologico",
+      "topics": [
+        "pobreza",
+        "desigualdade",
+        "comparacao_internacional"
+      ],
+      "use_for": "Localizar a metodologia de estimativas globais e regionais de pobreza da PIP.",
+      "limitations": "Introdução consultada, não capítulos completos; fixar linha de pobreza, paridade de poder de compra, conceito de bem-estar e ano da pesquisa antes de comparar.",
+      "reference_period": "Edição indicada na página: 2026-09",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Introdução e edição verificadas; não extração de estimativas nem leitura integral do manual.",
+      "institution": "Banco Mundial"
+    },
+    {
+      "id": "DADO-INEP",
+      "title": "Índice de Desenvolvimento da Educação Básica — Ideb",
+      "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "educacao",
+        "servicos_publicos",
+        "brasil"
+      ],
+      "use_for": "Localizar Ideb e entender a combinação de fluxo escolar e desempenho em avaliações.",
+      "limitations": "Índice não mede sozinho toda a qualidade da educação; comparar etapa, rede, território, participação e edição. Não inferir mérito de um governo sem análise adicional.",
+      "reference_period": "Edição e etapa de ensino devem ser selecionadas na consulta",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Apresentação e definição dos componentes consultadas; não extração de resultados por rede.",
+      "institution": "Inep"
+    },
+    {
+      "id": "DADO-DATASUS",
+      "title": "Informações de Saúde — TABNET",
+      "url": "https://datasus.saude.gov.br/informacoes-de-saude-tabnet/",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "saude",
+        "servicos_publicos",
+        "mortalidade",
+        "brasil"
+      ],
+      "use_for": "Localizar tabulação de sistemas de saúde, mortalidade, nascimentos e produção assistencial.",
+      "limitations": "Atraso, cobertura e preenchimento variam entre sistemas; produção faturada ou registrada não é toda a necessidade de atendimento nem todo o gasto em saúde.",
+      "reference_period": "Período e atualização próprios de cada sistema",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Página e categorias de informação consultadas; sem tabulação ou verificação de dados individuais.",
+      "institution": "DATASUS, Ministério da Saúde"
+    },
+    {
+      "id": "DADO-INPE",
+      "title": "TerraBrasilis — plataforma de dados geográficos",
+      "url": "https://terrabrasilis.dpi.inpe.br/en/home-page/",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "ambiente",
+        "desmatamento",
+        "brasil"
+      ],
+      "use_for": "Localizar mapas, painéis e metadados de PRODES, DETER e outros sistemas de monitoramento.",
+      "limitations": "Distinguir taxa anual de alertas, sistema, bioma, cobertura e versão; revisões e dados experimentais exigem cautela.",
+      "reference_period": "Página dinâmica; séries e revisões próprias de cada sistema",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Página, distinção dos painéis e aviso de atualização consultados; sem extração de taxas.",
+      "institution": "INPE"
+    },
+    {
+      "id": "DADO-ATLAS",
+      "title": "Atlas da Violência — portal de séries e publicações",
+      "url": "https://www.ipea.gov.br/atlasviolencia/",
+      "type": "diretorio_de_dados",
+      "topics": [
+        "seguranca",
+        "homicidios",
+        "brasil"
+      ],
+      "use_for": "Encontrar séries e publicações do Atlas da Violência.",
+      "limitations": "Interface parcialmente acessível nesta consulta; selecionar relatório, ano-base, definição e origem dos dados. Não confundir ano da publicação com ano dos fatos.",
+      "reference_period": "Séries e relatórios com períodos próprios",
+      "consulted_on": "2026-10-06",
+      "access_status": "interface_parcial_consultada",
+      "verification_notes": "Abertura retornou campo de busca e seção de publicações, sem tabelas ou relatório utilizável. Nenhuma estatística conferida.",
+      "institution": "Ipea"
+    },
+    {
+      "id": "PART-PL",
+      "title": "PL realiza Convenção Nacional e aprova novo Programa Partidário",
+      "url": "https://partidoliberal.org.br/pl-realiza-convencao-nacional-e-aprova-novo-programa-partidario/",
+      "type": "autodefinicao_partidaria",
+      "topics": [
+        "partidos",
+        "brasil"
+      ],
+      "use_for": "Documentar os eixos que o próprio PL divulgou para seu programa na convenção de 2022.",
+      "limitations": "Notícia do próprio partido, não programa integral nem prova de execução, de comportamento democrático ou de toda a direita.",
+      "reference_period": "Notícia sobre convenção de 2022; confirmar versão vigente para análise atual",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Trecho que lista eixos programáticos consultado; não auditoria do partido.",
+      "institution": "Partido Liberal"
+    },
+    {
+      "id": "PART-PDT",
+      "title": "Ideologia — Partido Democrático Trabalhista",
+      "url": "https://pdt.org.br/index.php/o-pdt/ideologia/",
+      "type": "autodefinicao_partidaria",
+      "topics": [
+        "partidos",
+        "trabalhismo",
+        "brasil"
+      ],
+      "use_for": "Documentar compromissos que o PDT apresenta como Trabalhismo Democrático.",
+      "limitations": "Autodefinição vinculada ao manifesto; não demonstra atuação atual nem representa todas as tradições trabalhistas.",
+      "reference_period": "Página consultada em 2026-10-06; data da versão programática não confirmada",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Introdução e compromissos com crianças/jovens e trabalhadores consultados.",
+      "institution": "Partido Democrático Trabalhista"
+    },
+    {
+      "id": "PART-PSDB",
+      "title": "Programa — Partido da Social Democracia Brasileira",
+      "url": "https://www.psdb.org.br/conheca/programa/",
+      "type": "autodefinicao_partidaria",
+      "topics": [
+        "partidos",
+        "social_democracia",
+        "brasil"
+      ],
+      "use_for": "Localizar os tópicos do programa e a autodescrição social-democrática do PSDB.",
+      "limitations": "Página de apresentação e tópicos, não leitura integral do programa. Nome e autodefinição não fixam classificação ideológica de toda a trajetória.",
+      "reference_period": "Página consultada em 2026-10-06; data da versão programática não confirmada",
+      "consulted_on": "2026-10-06",
+      "access_status": "pagina_descritiva_consultada",
+      "verification_notes": "Apresentação e títulos dos tópicos consultados; parte do programa aparece em imagens.",
+      "institution": "Partido da Social Democracia Brasileira"
+    },
+    {
+      "id": "PART-PSOL",
+      "title": "Programa — Partido Socialismo e Liberdade",
+      "url": "https://psol50.org.br/partido/programa/",
+      "type": "autodefinicao_partidaria",
+      "topics": [
+        "partidos",
+        "socialismos",
+        "brasil"
+      ],
+      "use_for": "Documentar autodefinição sobre socialismo, democracia e liberdade no programa do PSOL.",
+      "limitations": "Autodefinição e interpretações políticas do próprio partido, não confirmação independente de diagnósticos econômicos ou atuação.",
+      "reference_period": "Página consultada em 2026-10-06; conferir data formal de aprovação e versão",
+      "consulted_on": "2026-10-06",
+      "access_status": "texto_parcial_consultado",
+      "verification_notes": "Introdução e trechos sobre atualização programática e socialismo consultados; não leitura integral.",
+      "institution": "Partido Socialismo e Liberdade"
     }
-  ]
+  ],
+  "schema_version": 2,
+  "access_status_definitions": {
+    "registro_inicial_sem_detalhamento": "Registro herdado da primeira versão; extensão da leitura não discriminada.",
+    "texto_parcial_consultado": "Trechos relevantes acessíveis lidos; não implica leitura integral.",
+    "pagina_descritiva_consultada": "Página de apresentação, catálogo ou documentação lida; sem extração dos dados ou leitura de todas as obras.",
+    "resumo_e_metadados_consultados": "Resumo e dados bibliográficos lidos; obra integral não lida.",
+    "resultado_busca_apenas": "Descrição localizada em busca; abertura bloqueada ou sem conteúdo utilizável.",
+    "interface_parcial_consultada": "Interface aberta com conteúdo insuficiente para conferir dados ou relatórios."
+  }
 }

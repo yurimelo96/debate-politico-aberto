@@ -17,3 +17,10 @@ Ao discutir Europa, América Latina, Ásia ou África, procurar programas locais
 
 ## Comparar resultados
 Fixar período, renda inicial, estrutura produtiva, instituições, tamanho da população e choques externos. Comparar indicadores compatíveis; explicar denominadores e metodologias. Separar ações de governo, de empresa privada, de estatal estrangeira e de organismo multilateral. Para China/EUA, comparar direitos de controle, condições contratuais e setor, sem inferir perda de soberania somente da existência de investimento.
+
+## Caminhos para evidências comparadas
+- Democracia: TEO-DEM trata teoria normativa. DADO-VDEM é catálogo de indicadores empíricos e versões; antes de classificar um regime, obter indicador, codebook, período e incerteza. Não chamar o catálogo de avaliação já executada.
+- Pobreza: DADO-POBREZA identifica o manual metodológico da PIP, edição 2026-09. Apenas introdução e edição foram verificadas; ler os capítulos pertinentes e fixar linha, paridade de poder de compra e ano da pesquisa.
+- Trabalho: EST-JORNADA identifica relatório da OIT de 2022. Comparações sobre jornada exigem contexto, desenho dos estudos e dados locais; não aplicar um resumo global como previsão automática.
+
+Esses caminhos ampliam a pesquisa comparada, mas não são programas ou mapas ideológicos completos de outros países. Europa, África, Ásia e demais países latino-americanos continuam exigindo referências locais adicionais.

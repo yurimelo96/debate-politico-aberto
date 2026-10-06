@@ -6,6 +6,7 @@ import re
 import sys
 from pathlib import Path
 from urllib.parse import urlparse
+from build_source_index import render
 
 ROOT = Path(__file__).resolve().parents[1]
 SKILL = ROOT / 'skills/analisar-debates-politicos'
@@ -15,22 +16,37 @@ def validate():
     required = ['README.md', 'LICENSE', 'CONTRIBUTING.md', 'docs/escopo.md',
                 'evals/rubrica.md', 'evals/casos.json', 'scripts/validate_project.py',
                 'skills/analisar-debates-politicos/SKILL.md',
-                'skills/analisar-debates-politicos/agents/openai.yaml']
+                'skills/analisar-debates-politicos/agents/openai.yaml',
+                'skills/analisar-debates-politicos/references/indice-fontes.md',
+                'scripts/build_source_index.py']
     for name in required:
         if not (ROOT / name).is_file(): errors.append(f'Missing: {name}')
     try:
         catalog = json.loads((SKILL / 'references/fontes.json').read_text())
+        if catalog.get('schema_version') != 2: errors.append('Unsupported source schema version')
+        states = catalog['access_status_definitions']
+        if not isinstance(states, dict) or not states or not all(isinstance(v, str) and v.strip() for v in states.values()):
+            errors.append('Invalid access status definitions')
         sources = catalog['sources']
         ids = [s['id'] for s in sources]
         if len(ids) != len(set(ids)): errors.append('Duplicate source IDs')
+        urls = [s['url'] for s in sources]
+        if len(urls) != len(set(urls)): errors.append('Duplicate source URLs')
         if not sources: errors.append('Empty source catalog')
         for source in sources:
-            for key in ('id', 'title', 'url', 'type', 'limitations', 'consulted_on', 'reference_period'):
+            for key in ('id', 'title', 'url', 'type', 'limitations', 'consulted_on', 'reference_period', 'use_for', 'verification_notes'):
                 if not source.get(key): errors.append(f'Missing source field: {source.get("id")} / {key}')
+            topics = source.get('topics')
+            if not isinstance(topics, list) or not topics or not all(isinstance(t, str) and t.strip() for t in topics):
+                errors.append(f'Invalid source topics: {source["id"]}')
+            if source.get('access_status') not in states:
+                errors.append(f'Invalid source access status: {source["id"]}')
             parsed = urlparse(source['url'])
             if parsed.scheme != 'https' or not parsed.netloc or parsed.username or parsed.password:
                 errors.append(f'Invalid source URL: {source["id"]}')
             datetime.date.fromisoformat(source['consulted_on'])
+        if (SKILL / 'references/indice-fontes.md').read_text() != render(catalog):
+            errors.append('Source index is stale: run scripts/build_source_index.py')
     except (KeyError, ValueError, OSError, TypeError) as exc:
         errors.append(f'Source catalog: {exc}'); sources = []; ids = []
     for path in ROOT.rglob('*.md'):

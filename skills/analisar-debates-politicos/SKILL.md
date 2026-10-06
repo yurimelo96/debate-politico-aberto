@@ -14,8 +14,11 @@ Explicar as divergências, avaliar evidências e ajudar a conversar. Corrigir ta
 - Para comparações internacionais: ler [mundo.md](references/mundo.md).
 - Para acusações e fatos atuais: ler [checagem.md](references/checagem.md).
 - Para economia, trabalho, direitos, segurança ou soberania: ler [pautas.md](references/pautas.md).
+- Para escolher um portal, uma série ou uma decisão: ler [instituicoes-dados.md](references/instituicoes-dados.md).
+- Para compras de terras, empresas ou direitos minerários: ler [soberania-investimentos.md](references/soberania-investimentos.md).
 - Para avaliar inferências e conduzir a conversa: ler [argumentacao.md](references/argumentacao.md).
 - Para localizar fontes e interpretar suas limitações: consultar [fontes.json](references/fontes.json).
+- Para navegar pelo catálogo por tema: consultar [indice-fontes.md](references/indice-fontes.md).
 - Para organizar a resposta: ler [saida.md](references/saida.md).
 
 ## Proceder em seis passos
@@ -24,6 +27,7 @@ Explicar as divergências, avaliar evidências e ajudar a conversar. Corrigir ta
 3. Dividir frases compostas em alegações independentes. Separar fato verificável, acusação factual, valor, interpretação causal, previsão, proposta e ataque pessoal. Permitir mais de um tipo por frase.
 4. Consultar as bases para apresentar a posição real da corrente relevante. Distinguir tradição filosófica, movimento, partido, governo, candidato e eleitor. Formular o argumento defensável de cada posição efetivamente presente sem inventar justificativas ou participantes.
 5. Pesquisar fatos temporais, processos, legislação, estatísticas e posições atuais antes de afirmar. Procurar documento específico e confirmação independente proporcional à controvérsia. Registrar data e escopo de cada fonte. Sem busca disponível ou resultado suficiente, explicar a limitação e não fabricar um veredito.
+   Usar o catálogo para localizar evidências, não como prova de uma alegação. Conferir `access_status` e `verification_notes`: uma página de apresentação, resultado de busca ou resumo não equivale à leitura de dados, decisão ou estudo integral. Reabrir a fonte específica e indicar o alcance real da consulta.
 6. Examinar a conclusão: indicar onde as evidências sustentam a afirmação, onde há extrapolação e qual informação resolveria a dúvida. Aplicar a mesma exigência de evidência a qualquer lado, sem impor igual culpa ou igual credibilidade.
 
 ## Manter dois eixos independentes

@@ -16,6 +16,11 @@ Registrar texto, autor quando identificável, país, data do fato, tipo, objeto 
 Não adotar hierarquia cega de “oficial sempre verdadeiro”. Autoridade da fonte depende do fato que ela pode documentar, independência, acesso e método. Relatório governamental ou empresarial sobre si próprio exige leitura das limitações. Não descartar fonte por ser partidária quando a pergunta é o que aquele partido defende; não usá-la sozinha para julgar uma acusação contra adversário.
 Buscar versões divergentes e documentos comuns, não obrigatoriamente um veículo de cada lado. Muitas republicações da mesma origem não são confirmações independentes. Preferir dados primários e análise especializada pertinente.
 
+## Interpretar o catálogo
+Usar `topics` e `use_for` para selecionar a fonte e `limitations`, `access_status` e `verification_notes` para entender o alcance da consulta registrada. O estado de acesso descreve a preparação da base, não certifica a situação futura do site.
+Uma fonte pode ser adequada para encontrar documentos e insuficiente para sustentar a alegação. Não citar uma página inicial como se fosse o contrato, acórdão, tabela ou estudo necessário. Abrir o item específico na análise e citar esse item. Não converter resumo em leitura integral, nem material partidário em verificação independente.
+As doze fontes da primeira versão mantêm registro inicial sem detalhamento da extensão da leitura; não apresentá-las como novamente auditadas nesta ampliação.
+
 ## Verificar antes de publicar
 Abrir a fonte e conferir o trecho quando houver acesso. Usar resultado de busca somente como pista ou evidência limitada explicitamente identificada. Não fabricar URL, processo ou citação. Se acesso for bloqueado, buscar alternativa ou declarar o limite.
 Registrar datas de publicação, ocorrência e consulta. Conferir atualizações e retificações. Não usar ausência de resultado como prova de inexistência; explicar o alcance da busca.

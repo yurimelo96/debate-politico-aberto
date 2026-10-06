@@ -22,7 +22,16 @@ Essas linhas são sínteses de famílias de argumentos das bases teóricas, apli
 - PT: o manifesto de fundação de 1980 enfatiza organização e participação política de trabalhadores, liberdades democráticas e interesses populares. Documento histórico do próprio partido, não prova de cumprimento atual [PART-PT].
 - NOVO: material de sua fundação apresenta formação baseada em liberdade, eficiência e ética. Material do próprio campo partidário, não avaliação de seus resultados [PART-NOVO].
 
-Não tratar esses dois exemplos como representantes exclusivos de toda esquerda e direita.
+Outros documentos consultados ampliam os exemplos, sem criar classificação automática:
+
+| Partido | O que a fonte documenta | Limite |
+|---|---|---|
+| PL | Notícia da convenção de 2022 lista propriedade, intervenção estatal mínima, empreendedorismo, família e solidariedade entre eixos [PART-PL]. | Relato do próprio partido; não leitura integral do programa ou comprovação de execução. |
+| PDT | Página de ideologia vincula Trabalhismo Democrático a compromissos com crianças, jovens e trabalhadores [PART-PDT]. | Versão programática sem data formal confirmada; não descreve toda atuação recente. |
+| PSDB | Página do programa apresenta tópicos como agenda social-democrática e articulação entre governo e mercado [PART-PSDB]. | Página de apresentação; parte do conteúdo é imagem. Não fixar sua classificação histórica só pelo nome. |
+| PSOL | Programa consultado declara compromisso com socialismo, democracia e liberdade [PART-PSOL]. | Autodefinição; diagnósticos econômicos no texto exigem confirmação independente. |
+
+Não tratar esses seis partidos como representantes exclusivos de todas as correntes, nem o número de documentos por campo como medida de justiça do catálogo. São documentos com funções e épocas diferentes. Verificar versões atuais no partido e no TSE antes de atribuir uma posição concreta.
 
 ## Movimentos e coalizões
 Tratar petismo e bolsonarismo como identidades e movimentos associados a lideranças e trajetórias, não como substitutos de todas as correntes de esquerda e direita. Ao descrever suas pautas ou comportamento, verificar discursos, programas, pesquisas e atos pertinentes ao período; não atribuir automaticamente a um eleitor a posição mais extrema de outro integrante.
@@ -31,3 +40,5 @@ Separar centro ideológico de “Centrão”: investigar se o termo é empregado
 ## Classificação partidária com método e data
 BR-CLASS apresenta classificações de especialistas referentes a 2018 e 2022. Não chamar a medida de mapa definitivo de 2026. Categorias como “extrema” dependem dos cortes do estudo e não provam, por si sós, rejeição à democracia. BR-METODO examina programas, atuação e percepções como instrumentos diferentes, com limitações. Explicar a métrica ao usar qualquer classificação.
 Consultar registro, programas e estatutos no TSE [INST-TSE]. Buscar proposições e votos na Câmara e no Senado para alegações sobre atuação. Separar responsabilidade federal, estadual e municipal; esclarecer limites de atribuições e alianças.
+
+Para esse trabalho, usar [instituicoes-dados.md](instituicoes-dados.md): Constituição [INST-CF], documentação da Câmara [INST-CAM], catálogo do Senado [INST-SEN] e dados eleitorais [INST-TSEDADOS]. Registrar proposição, texto, órgão, etapa e data; voto em uma etapa não descreve automaticamente todas as demais.
